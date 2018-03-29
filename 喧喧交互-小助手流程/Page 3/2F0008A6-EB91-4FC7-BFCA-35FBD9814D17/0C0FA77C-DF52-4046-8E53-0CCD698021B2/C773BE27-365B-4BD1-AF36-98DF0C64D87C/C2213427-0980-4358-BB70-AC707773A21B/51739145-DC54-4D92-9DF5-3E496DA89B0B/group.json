@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "51739145-DC54-4D92-9DF5-3E496DA89B0B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F917103-22CF-493B-91FD-77E6ABD44E38",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EEF7D7AF-948F-4114-9F72-8CF7B60A70CE",
+    "height": 30,
+    "width": 30,
+    "x": 94,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FECB1670-12C8-499F-9D34-2A1F521A4E73"
+    }
+  ],
+  "name": "ic_forum_24px",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE0D7C87-81E9-4CB0-AF72-F2C4FD92ADDE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
