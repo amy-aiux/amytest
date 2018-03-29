@@ -1,0 +1,107 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3E4A37EB-8B85-45BE-842A-698C66D46868",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "2F0008A6-EB91-4FC7-BFCA-35FBD9814D17",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "97D4BC73-3546-4A44-AF9D-3EFE5E6C4FDD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2F53734B-7F64-4026-B514-C0531EF9B699",
+    "height": 900,
+    "width": 1440,
+    "x": -570,
+    "y": -301
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "01B7F9DB-6C90-4F09-A245-82564E1E53C4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "616139D2-35CB-467F-B5C7-F8BE5DFA47F1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "774E3D5A-613A-4E43-A053-A1AFA7A9006C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CAD957B2-844C-4BD3-AD9A-5036AA2B2E53"
+    },
+    {
+      "class": "group",
+      "id": "08419B25-6E98-4770-BB2D-AA46E1BCD665"
+    },
+    {
+      "class": "group",
+      "id": "245D7D6A-5300-4008-BCAB-DA60896E62EC"
+    },
+    {
+      "class": "group",
+      "id": "7F402696-4548-4262-985A-D7802314E75F"
+    },
+    {
+      "class": "group",
+      "id": "0C0FA77C-DF52-4046-8E53-0CCD698021B2"
+    },
+    {
+      "class": "group",
+      "id": "EA61E93A-5FC6-4613-A1D6-EB4F1F2E3DEF"
+    },
+    {
+      "class": "group",
+      "id": "4AD2B38D-5544-4AC0-BED8-87958E76661C"
+    }
+  ],
+  "name": "发起临时讨论",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A4922391-8FD6-474F-BD44-68417A16A1A5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F290ECA9-A91B-4391-80DD-EC26E132EC60",
+    "guides": [
+    ]
+  }
+}

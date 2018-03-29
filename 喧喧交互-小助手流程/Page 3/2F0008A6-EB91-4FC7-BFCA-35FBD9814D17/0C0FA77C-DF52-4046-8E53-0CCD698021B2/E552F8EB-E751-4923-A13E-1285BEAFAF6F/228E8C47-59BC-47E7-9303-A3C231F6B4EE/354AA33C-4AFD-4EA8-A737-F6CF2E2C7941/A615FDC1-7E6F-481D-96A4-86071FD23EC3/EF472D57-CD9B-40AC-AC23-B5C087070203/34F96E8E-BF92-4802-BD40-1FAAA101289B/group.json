@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "do_objectID": "34F96E8E-BF92-4802-BD40-1FAAA101289B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EE24CDC3-6FB9-4C4F-876A-90A06A8D9A64",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "846A2676-4A3B-4A68-8F7A-367DFA1ADABC",
+    "height": 39,
+    "width": 32,
+    "x": 7,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A524F17F-92B2-4979-9C8A-0353DC0EEC38"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A32B67AB-7E28-47D7-8AE8-AB8C5416E4FE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "50345686-F832-45C0-84E2-F8489C6A821F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "45FFF30B-BC42-414E-94BD-BB04FBD911B9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2F42F0FC-F01B-48C3-A66B-8B3B738EB50D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C287EABB-A725-43C7-B6CA-C1076ABF370F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A963F1ED-3257-491D-8037-822371E3D480"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B6FBEEEA-A55E-448A-9B98-0605C489A7FF"
+    }
+  ],
+  "name": "user-3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "04A2D40E-EA87-4AFB-87B6-DAD7CE34C7FC",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.46,
+      "type": 0
+    },
+    "do_objectID": "04291C5D-0DA9-48EB-9498-587DEA8089E4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "71D0BDD6-01CF-4625-8D86-D7578C0C6DC0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "582B37FE-0DC7-4717-A73F-537CEC0D639D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9D841661-EC69-4752-8769-BD8C2B1DD587",
+    "height": 36,
+    "width": 230,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3A20740A-03D8-4CF4-A87F-83CF9CB22970"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "00C362F9-E227-4C0A-B45E-29956B5EF64C"
+    }
+  ],
+  "name": "搜索",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "BFB26E7E-B302-4BA6-842E-B67B58151610",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.5,
+      "type": 0
+    },
+    "do_objectID": "CBF69EA8-9518-4365-BB57-6EFA0B991697",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

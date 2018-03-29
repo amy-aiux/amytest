@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "5F934460-1E37-46E9-8C4C-7C96DA131693",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90CE3ACD-4A4A-4748-B79D-D39830D94F4B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "29BB0A44-426C-42C3-9CAB-7CFB0E4DB783",
+    "height": 108,
+    "width": 324,
+    "x": 0,
+    "y": 320
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CCC91B41-87A1-4F0F-A4BC-23BB595D75FA"
+    },
+    {
+      "class": "group",
+      "id": "552D6815-CEB2-4AB5-80D3-CF7570E33E3D"
+    }
+  ],
+  "name": "多人会话 copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A6A485A0-F980-46BC-8E3D-86B166EC495D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
