@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "7979F3C1-7C8F-4B93-8519-4DDC69CA1907",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 108,
+    "width": 324,
+    "x": 0,
+    "y": 212
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9B85DAF9-20BE-4996-A9BC-CDC3376E9AB4"
+    },
+    {
+      "class": "text",
+      "id": "10954B27-F5D8-49D5-B406-CB631B1F8502"
+    },
+    {
+      "class": "group",
+      "id": "44CA0E4C-70AF-4737-8FB0-F63A5AAA68B8"
+    }
+  ],
+  "name": "私人对话",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

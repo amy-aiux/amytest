@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "7B92A533-2D14-42F4-8954-6B8CB7653446",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 108,
+    "width": 324,
+    "x": 0,
+    "y": 644
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2AF8D663-FE47-4033-A477-CBAF4D74A271"
+    },
+    {
+      "class": "text",
+      "id": "BD13AAA4-B9C5-4D3A-B746-383680256704"
+    },
+    {
+      "class": "group",
+      "id": "4387126F-06FC-4279-8873-A532F3321B1E"
+    }
+  ],
+  "name": "私人对话 copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

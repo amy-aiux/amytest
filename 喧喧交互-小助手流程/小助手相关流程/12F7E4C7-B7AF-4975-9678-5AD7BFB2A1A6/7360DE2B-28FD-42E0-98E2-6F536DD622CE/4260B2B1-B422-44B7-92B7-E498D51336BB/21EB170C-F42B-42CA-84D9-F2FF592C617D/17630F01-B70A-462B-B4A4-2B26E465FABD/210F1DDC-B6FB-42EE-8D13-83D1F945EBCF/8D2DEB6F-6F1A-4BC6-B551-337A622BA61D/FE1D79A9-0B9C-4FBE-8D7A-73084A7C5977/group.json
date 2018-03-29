@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "do_objectID": "FE1D79A9-0B9C-4FBE-8D7A-73084A7C5977",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 33,
+    "x": 5,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2742AED4-6FB6-495D-98E2-579D8D557B70"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2532DCCE-897C-488F-8BBC-663728CA1196"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A9968E7C-96DE-40B1-A8BB-44125EF6C245"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FFC8325F-8245-4478-87D0-06D3FA0A90A3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1FA6E93E-4EEA-46C3-84D1-979D8BE8D717"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "05ED03D1-42EE-442F-9E7A-D9AD702AAD69"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B2986D29-675A-421E-8065-F37C269197F9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2D3ADB99-5869-497F-BF8E-5BDE8404450C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4CF956CD-BB02-403F-972C-B45C8C09CB4D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "904FD45D-D9D3-4EE0-8BCA-19DB9616CF66"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "99310771-A5E2-405A-9BAE-4677280D3C87"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CC7B57EB-A709-42BD-B0B3-64FE87BDE570"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7981E83B-0A04-4379-96D1-8AD7930F6AC7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0B51713D-8FDC-48C4-A064-1B9E9C9303E5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7CC55450-4E23-429B-9496-4874926DACCF"
+    }
+  ],
+  "name": "user-19",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.46,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

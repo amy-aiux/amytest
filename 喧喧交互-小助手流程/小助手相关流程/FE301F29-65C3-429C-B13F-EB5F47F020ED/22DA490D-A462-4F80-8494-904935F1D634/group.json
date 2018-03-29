@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "22DA490D-A462-4F80-8494-904935F1D634",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 806,
+    "width": 769,
+    "x": 323,
+    "y": 94
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BCB6801A-21C4-41DC-A6FC-09AE52351125"
+    },
+    {
+      "class": "text",
+      "id": "C21C3A7A-92A5-4FE0-99F6-1C201552E899"
+    }
+  ],
+  "name": "会话",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

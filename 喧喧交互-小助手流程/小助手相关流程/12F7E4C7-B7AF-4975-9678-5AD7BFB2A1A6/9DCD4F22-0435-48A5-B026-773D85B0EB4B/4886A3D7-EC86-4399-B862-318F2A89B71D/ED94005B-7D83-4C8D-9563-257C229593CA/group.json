@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "ED94005B-7D83-4C8D-9563-257C229593CA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 131,
+    "width": 769,
+    "x": 0,
+    "y": 612
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9D6E40D5-A7E9-4633-92B6-0A2AB2DE4CEF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E687EEE8-6849-41C9-ADB8-91034BF365E8"
+    },
+    {
+      "class": "group",
+      "id": "4B2C10F2-0E23-4588-A244-C7953D170701"
+    }
+  ],
+  "name": "发送框",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
