@@ -16,8 +16,6 @@
   },
   "colorSpace": 0,
   "do_objectID": "E9C48035-F3DE-4E37-AFF7-41FCC59BF8D4",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
   "foreignSymbols": [
   ],
   "layerSymbols": {
@@ -26,11 +24,12 @@
     ]
   },
   "meta": {
-    "appVersion": "48.1",
-    "build": 47250,
-    "version": 97
+    "appVersion": "49.1",
+    "build": 51147,
+    "version": 101
   },
   "pages": [
-    "小助手相关流程"
+    "小助手相关流程",
+    "Page 1"
   ]
 }
